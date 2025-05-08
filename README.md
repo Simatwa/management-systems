@@ -4,7 +4,7 @@
 <a href=""><img alt="Backend Admin - Django" src="https://img.shields.io/static/v1?logo=django&color=Blue&message=Admin&label=Django"/></a>
 <a href=""><img alt="Backend API - FastAPI" src="https://img.shields.io/static/v1?logo=fastapi&color=Blue&message=RestAPI&label=FastAPI"/></a>
 <a href=""><img alt="Frontend - React" src="https://img.shields.io/static/v1?logo=react&color=Blue&message=Frontend&label=React"/></a>
-<a href="https://github.com/Simatwa/health-management-system/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/static/v1?logo=license&color=Blue&message=Creative Commons&label=License"/></a>
+<a href="https://github.com/Simatwa/health-management-system/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/static/v1?logo=license&color=Blue&message=Creative-Commons&label=License"/></a>
 </p>
 
 A collection of web-based management systems that I have developed for academic purposes.
@@ -12,11 +12,13 @@ A collection of web-based management systems that I have developed for academic 
 > [!NOTE]
 > Even though these systems have been developed for sholarly applications, they are based in addressing real world problems hence making them technically viable for production deployments. Moreso, I credit the ideas to their respective sponsors who are explicitly mentioned in each project's README where available.
 
+# Projects
+
 <details>
 
 <summary>
 
-# 2025
+## 2025
 
 </summary>
 
@@ -28,4 +30,8 @@ A collection of web-based management systems that I have developed for academic 
 
 
 </details>
+
+
+> [!IMPORTANT]
+> Incase you want any of these project for running your business then feel free to use it but abide to it's respective license. You can as well reach out to @Simatwa for customization negotiations.
 
