@@ -33,5 +33,5 @@ A collection of web-based management systems that I have developed for academic 
 
 
 > [!IMPORTANT]
-> Incase you want any of these project for running your business then feel free to use it but abide to it's respective license. You can as well reach out to @Simatwa for customization negotiations.
+> Incase you want any of these project for running your business then feel free to use it but abide to it's respective license. You can as well reach out to [@Simatwa](https://github.com/Simatwa) for customization negotiations.
 
